@@ -1,4 +1,4 @@
-# Neuromatch-2021_Deep-learning_Project
+# Neuromatch-2021_Deep-learning_Project (Contributors: Jennifer Jensen, Christopher Versteeg, Shruti Marathe,Jiaxin Cindy)
    Neural firing rates can be modeled with a dynamical system, suggesting that low-dimensional dynamics arising from connectivity within brain 
  regions are the sources of changes in neural activity. However, neurons across brain regions are also highly interconnected. The extent to which 
  neural activity is driven by local dynamics or by the activity of upstream brain regions remains unclear. To address this question, we used 
@@ -11,6 +11,7 @@
  (mean squared error (MSE) loss = 0.02) and adding inputs from TH did not further improve the performance (MSE loss= 0.02). This suggests that intrinsic 
  dynamics in a single brain area may be sufficient in predicting neural activity. Our results are limited to only two example regions for a single example 
  session, and further studies should explore other brain areas.
+ 
 
 
 
